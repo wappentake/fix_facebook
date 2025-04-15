@@ -1,0 +1,199 @@
+BEGIN:VCALENDAR
+PRODID:-//Facebook//NONSGML Facebook Events V1.0//EN
+X-WR-CALNAME:Plain Ol' A's Facebook Events
+X-PUBLISHED-TTL:PT12H
+X-ORIGINAL-URL:/events/
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+X-LIC-LOCATION:America/Chicago
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:19701101T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+TZNAME:CDT
+DTSTART:19700308T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+END:VTIMEZONE
+
+BEGIN:VEVENT
+DTSTAMP:20250414T020043Z
+LAST-MODIFIED:20250414T020043Z
+CREATED:20240721T190341Z
+SEQUENCE:23007422
+ORGANIZER;CN=Plain Ol' A's:MAILTO:noreply@facebookmail.com
+DTSTART;TZID=America/Chicago:20250624T000000Z
+DTEND;TZID=America/Chicago:20250624T020000Z
+UID:e458085603662117@facebook.com
+SUMMARY:Monthly Meeting
+LOCATION:Monticello Community Historical So
+ ciety
+URL:https://www.facebook.com/events/458085573662120/?event_time_id=458085603662117
+DESCRIPTION:Join us for our monthly club meeti
+ ng!\n\nhttps://www.facebook.com/even
+ ts/458085573662120/?event_time_id=
+ 458085603662117
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250319T025759Z
+LAST-MODIFIED:20250319T025759Z
+CREATED:20250319T025759Z
+SEQUENCE:0
+ORGANIZER;CN=Plain Ol' A's:MAILTO:noreply@facebookmail.com
+DTSTART;TZID=America/Chicago:20250510T170000Z
+DTEND;TZID=America/Chicago:20250510T210000Z
+UID:e4053809498279639@facebook.com
+SUMMARY: Ensor Fest
+LOCATION:Ensor Farmsite & Museum
+URL:https://www.facebook.com/events/4053809498279639/
+DESCRIPTION:This community event is FREE and o
+ pen to the public! (Donations are 
+ welcome! Bring blankets and lawn c
+ hairs for the performances.)\n\nMore
+  details to come!\n\nhttps://www.fac
+ ebook.com/events/4053809498279639/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250414T020043Z
+LAST-MODIFIED:20250414T020043Z
+CREATED:20240721T190341Z
+SEQUENCE:23007422
+ORGANIZER;CN=Plain Ol' A's:MAILTO:noreply@facebookmail.com
+DTSTART;TZID=America/Chicago:20250429T000000Z
+DTEND;TZID=America/Chicago:20250429T020000Z
+UID:e458085606995450@facebook.com
+SUMMARY:Monthly Meeting
+LOCATION:Monticello Community Historical So
+ ciety
+URL:https://www.facebook.com/events/458085573662120/?event_time_id=458085606995450
+DESCRIPTION:Join us for our monthly club meeti
+ ng!\n\nhttps://www.facebook.com/even
+ ts/458085573662120/?event_time_id=
+ 458085606995450
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250414T020121Z
+LAST-MODIFIED:20250414T020121Z
+CREATED:20250319T025040Z
+SEQUENCE:2243441
+ORGANIZER;CN=Plain Ol' A's:MAILTO:noreply@facebookmail.com
+DTSTART;TZID=America/Chicago:20250419T150000Z
+DTEND;TZID=America/Chicago:20250419T170000Z
+UID:e1334485714264562@facebook.com
+SUMMARY: Tune-up Day
+LOCATION:Monticello Community Historical So
+ ciety
+URL:https://www.facebook.com/events/1334485714264562/
+DESCRIPTION:We will meet at the Monticello His
+ torical Society (our new meeting h
+ ouse). When we get done we can fin
+ d somewhere for lunch.\n\nhttps://ww
+ w.facebook.com/events/133448571426
+ 4562/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250319T024743Z
+LAST-MODIFIED:20250319T024743Z
+CREATED:20250319T024743Z
+SEQUENCE:0
+ORGANIZER;CN=Plain Ol' A's:MAILTO:noreply@facebookmail.com
+DTSTART;TZID=America/Chicago:20250411T150000Z
+DTEND;TZID=America/Chicago:20250411T180000Z
+UID:e1549897615700539@facebook.com
+SUMMARY:National Weather Service Tour
+LOCATION:7220 NW 101st Ter\, Kansas City\, MO
+  64153-2371\, United States
+URL:https://www.facebook.com/events/1549897615700539/
+DESCRIPTION:We will tour the National Weather 
+ Service- AWC\n(Aviation Weather Cen
+ ter) which is a 7/24/365 facility\n
+ providing weather information to a
+ ll commercial airlines and private
+  pilots covering an area from Guam
+  in the Pacific\nto the mid-Atlanti
+ c Ocean area.\n\nThis is a federal f
+ acility\, so some type of governmen
+ t issued ID will be required for a
+ ll attendees (driver's\nlicense\, pa
+ ssport) This facility has both liv
+ e security guards and automated se
+ curity cameras\, so your old cars w
+ ill be safe. Those of you with mob
+ ility issues will enjoy this tour 
+ as there are no steps nor elevator
+ s\, and not much walking will be re
+ quired.\n\nAfterwards we'll head to 
+ Granite City Food and Brewery loca
+ ted in Zona Rosa just off Barry Ro
+ ad for lunch.\n\nThis will be a fun 
+ event! But we need a solid RSVP he
+ adcount by Tuesday April 8th if yo
+ u plan to attend.\n\nhttps://www.fac
+ ebook.com/events/1549897615700539/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250414T020043Z
+LAST-MODIFIED:20250414T020043Z
+CREATED:20240721T190341Z
+SEQUENCE:23007422
+ORGANIZER;CN=Plain Ol' A's:MAILTO:noreply@facebookmail.com
+DTSTART;TZID=America/Chicago:20250325T000000Z
+DTEND;TZID=America/Chicago:20250325T020000Z
+UID:e458085600328784@facebook.com
+SUMMARY:Monthly Meeting
+LOCATION:Monticello Community Historical So
+ ciety
+URL:https://www.facebook.com/events/458085573662120/?event_time_id=458085600328784
+DESCRIPTION:Join us for our monthly club meeti
+ ng!\n\nhttps://www.facebook.com/even
+ ts/458085573662120/?event_time_id=
+ 458085600328784
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250224T074034Z
+LAST-MODIFIED:20250224T074034Z
+CREATED:20250224T074034Z
+SEQUENCE:0
+ORGANIZER;CN=Plain Ol' A's:MAILTO:noreply@facebookmail.com
+DTSTART;TZID=America/Chicago:20250317T160000Z
+DTEND;TZID=America/Chicago:20250317T190000Z
+UID:e1207971994178745@facebook.com
+SUMMARY:Leavenworth St. Patrick's Day Parade
+URL:https://www.facebook.com/events/1207971994178745/
+DESCRIPTION: Leavenworth St Patrick's Day Para
+ de is March 17th. Line up will\nbe 
+ at 11:00. Details to follow...\n\nht
+ tps://www.facebook.com/events/1207
+ 971994178745/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+END:VCALENDAR
