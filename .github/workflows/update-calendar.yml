@@ -5,6 +5,9 @@ on:
     - cron: '0 6 * * *'  # Every day at 6:00 UTC (1 AM Central)
   workflow_dispatch:      # Allows manual runs from the GitHub UI
 
+permissions:
+  contents: write
+
 jobs:
   fix-ical:
     runs-on: ubuntu-latest
