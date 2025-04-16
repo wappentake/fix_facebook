@@ -46,13 +46,31 @@ STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250319T025759Z
-LAST-MODIFIED:20250319T025759Z
-CREATED:20250319T025759Z
+DTSTAMP:20250416T024118Z
+LAST-MODIFIED:20250416T024118Z
+CREATED:20250416T024118Z
 SEQUENCE:0
 ORGANIZER;CN=Plain Ol' A's:MAILTO:noreply@facebookmail.com
-DTSTART;TZID=America/Chicago:20250510T120000
-DTEND;TZID=America/Chicago:20250510T160000
+DTSTART;TZID=America/Chicago:20250614T090000
+DTEND;TZID=America/Chicago:20250614T120000
+UID:e8850062145096775@facebook.com
+SUMMARY:June Tour
+URL:https://www.facebook.com/events/8850062145096775/
+DESCRIPTION:A short tour TBD. More details soo
+ n...\n\nhttps://www.facebook.com/eve
+ nts/8850062145096775/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250416T023610Z
+LAST-MODIFIED:20250416T023610Z
+CREATED:20250319T025759Z
+SEQUENCE:2417891
+ORGANIZER;CN=Plain Ol' A's:MAILTO:noreply@facebookmail.com
+DTSTART;TZID=America/Chicago:20250510T123000
+DTEND;TZID=America/Chicago:20250510T170000
 UID:e4053809498279639@facebook.com
 SUMMARY: Ensor Fest
 LOCATION:Ensor Farmsite & Museum
@@ -60,9 +78,15 @@ URL:https://www.facebook.com/events/4053809498279639/
 DESCRIPTION:This community event is FREE and o
  pen to the public! (Donations are 
  welcome! Bring blankets and lawn c
- hairs for the performances.)\n\nMore
-  details to come!\n\nhttps://www.fac
- ebook.com/events/4053809498279639/
+ hairs for the performances.) This 
+ is a car show our club has been pa
+ rticipating\nin for several years. 
+ Besides touring the facility there
+  will be live music and a food tru
+ ck. We can have lunch/dinner there
+  or go to K&M BBQ after the show.\n
+ \n\nhttps://www.facebook.com/events/
+ 4053809498279639/
 CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
