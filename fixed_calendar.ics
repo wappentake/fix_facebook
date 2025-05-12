@@ -140,47 +140,4 @@ CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250319T024743Z
-LAST-MODIFIED:20250319T024743Z
-CREATED:20250319T024743Z
-SEQUENCE:0
-ORGANIZER;CN=Plain Ol' A's:MAILTO:noreply@facebookmail.com
-DTSTART;TZID=America/Chicago:20250411T100000
-DTEND;TZID=America/Chicago:20250411T130000
-UID:e1549897615700539@facebook.com
-SUMMARY:National Weather Service Tour
-LOCATION:7220 NW 101st Ter\, Kansas City\, MO
-  64153-2371\, United States
-URL:https://www.facebook.com/events/1549897615700539/
-DESCRIPTION:We will tour the National Weather 
- Service- AWC\n(Aviation Weather Cen
- ter) which is a 7/24/365 facility\n
- providing weather information to a
- ll commercial airlines and private
-  pilots covering an area from Guam
-  in the Pacific\nto the mid-Atlanti
- c Ocean area.\n\nThis is a federal f
- acility\, so some type of governmen
- t issued ID will be required for a
- ll attendees (driver's\nlicense\, pa
- ssport) This facility has both liv
- e security guards and automated se
- curity cameras\, so your old cars w
- ill be safe. Those of you with mob
- ility issues will enjoy this tour 
- as there are no steps nor elevator
- s\, and not much walking will be re
- quired.\n\nAfterwards we'll head to 
- Granite City Food and Brewery loca
- ted in Zona Rosa just off Barry Ro
- ad for lunch.\n\nThis will be a fun 
- event! But we need a solid RSVP he
- adcount by Tuesday April 8th if yo
- u plan to attend.\n\nhttps://www.fac
- ebook.com/events/1549897615700539/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
 END:VCALENDAR
