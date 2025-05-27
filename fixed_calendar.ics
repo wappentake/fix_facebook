@@ -112,32 +112,4 @@ CLASS:PUBLIC
 STATUS:CONFIRMED
 PARTSTAT:ACCEPTED
 END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20250418T053320Z
-LAST-MODIFIED:20250418T053320Z
-CREATED:20250319T025040Z
-SEQUENCE:2601760
-ORGANIZER;CN=Plain Ol' A's:MAILTO:noreply@facebookmail.com
-DTSTART;TZID=America/Chicago:20250426T100000
-DTEND;TZID=America/Chicago:20250426T120000
-UID:e1334485714264562@facebook.com
-SUMMARY: Tune-up Day
-LOCATION:Monticello Community Historical So
- ciety
-URL:https://www.facebook.com/events/1334485714264562/
-DESCRIPTION:UPDATE: Note the new time!\n\nBecaus
- e the weather is forecast to be in
-  the forties and a good chance for
-  rain\, I'm cancelling Tune Up day 
- for this Saturday and rescheduling
-  for April 26th.\n\nWe will meet at 
- the Monticello Historical Society 
- (our new meeting house). When we g
- et done we can find somewhere for 
- lunch.\n\nhttps://www.facebook.com/e
- vents/1334485714264562/
-CLASS:PUBLIC
-STATUS:CONFIRMED
-PARTSTAT:ACCEPTED
-END:VEVENT
 END:VCALENDAR
