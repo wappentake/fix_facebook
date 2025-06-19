@@ -25,6 +25,31 @@ END:STANDARD
 END:VTIMEZONE
 METHOD:PUBLISH
 BEGIN:VEVENT
+DTSTAMP:20250619T023422Z
+LAST-MODIFIED:20250619T023422Z
+CREATED:20250619T023422Z
+SEQUENCE:0
+ORGANIZER;CN=Plain Ol' A's:MAILTO:noreply@facebookmail.com
+DTSTART;TZID=America/Chicago:20250704T220000
+DTEND;TZID=America/Chicago:20250705T010000
+UID:e1443233183346708@facebook.com
+SUMMARY: Lenexa 4th of July Parade
+LOCATION:9635 Widmer Rd\, Lenexa\, KS 66215-1
+ 290\, United States
+URL:https://www.facebook.com/events/1443233183346708/
+DESCRIPTION:We will meet in Structura's parkin
+ g lot again this year to get our c
+ ars ready for  the parade at 9:00.
+  You can get to Structura from Pfl
+ umm and 96th Terrace. The parade s
+ tarts at 10:00 and they want us in
+  line by 9:45.\n\nhttps://www.facebo
+ ok.com/events/1443233183346708/
+CLASS:PUBLIC
+STATUS:CONFIRMED
+PARTSTAT:ACCEPTED
+END:VEVENT
+BEGIN:VEVENT
 DTSTAMP:20250414T020043Z
 LAST-MODIFIED:20250414T020043Z
 CREATED:20240721T190341Z
